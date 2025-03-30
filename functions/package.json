@@ -17,7 +17,7 @@
   "dependencies": {
     "@algolia/client-common": "^4.23.3",
     "@algolia/transporter": "^4.23.3",
-    "@babel/preset-typescript": "^7.24.1",
+    "@babel/preset-typescript": "^7.26.0",
     "@types/jest": "^27.5.2",
     "@types/js-yaml": "^4.0.8",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
